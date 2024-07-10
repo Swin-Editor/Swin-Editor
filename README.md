@@ -18,3 +18,10 @@ of videos. In this article, we introduce Swin-Editor, an efficient approach of v
 pip install -r requirements.txt
 ```
 Installing [xformers](https://github.com/facebookresearch/xformers) is highly recommended for improved efficiency and speed on GPUs. 
+
+## Run Demo
+
+```bash
+accelerate launch test_swineditor.py --config path/to/config
+```
+
