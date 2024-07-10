@@ -26,8 +26,6 @@ accelerate launch test_swineditor.py --config path/to/config
 ```
 
 ## Examples
-
-## Examples
 <table class="center">
 <tr>
   <td style="text-align:center;"><b>Input Video</b></td>
