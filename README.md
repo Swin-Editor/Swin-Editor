@@ -42,10 +42,10 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif" width="300" height="200"></td>
-  <td style colspan="2"><img src="examples/A dog in the grass in the sun.gif" width="300" height="200"></td>
-  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif" width="300" height="200"></td>
-  <td style colspan="2"><img src="examples/A red lion in the grass in the sun, surrounded by butterflies.gif" width="300" height="200"></td>
+  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/A dog in the grass in the sun.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/A red lion in the grass in the sun, surrounded by butterflies.gif" width="150" height="150"></td>
 </tr>
 
 
@@ -57,10 +57,10 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/A car is driving on the road.gif"></td>
-  <td style colspan="2"><img src="examples/a train is driving on the railway.gif"></td>
-  <td style colspan="2"><img src="examples/A car is driving on the road.gif"></td>
-  <td style colspan="2"><img src="examples/a truck is driving on the road.gif"></td> 
+  <td style colspan="2"><img src="examples/A car is driving on the road.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/a train is driving on the railway.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/A car is driving on the road.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/a truck is driving on the road.gif" width="150" height="150"></td> 
 </tr>
 
 <tr>
@@ -71,10 +71,10 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/gold-fish.gif"></td>
-  <td style colspan="2"><img src="examples/Several sharks swim in a tank.gif"></td>
-  <td style colspan="2"><img src="examples/sharks-swimming.gif"></td>
-  <td style colspan="2"><img src="examples/Two quadrotor drones swim in the blue ocean on a coral reef.gif"></td>
+  <td style colspan="2"><img src="examples/gold-fish.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/Several sharks swim in a tank.gif width="150" height="150""></td>
+  <td style colspan="2"><img src="examples/sharks-swimming.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/Two quadrotor drones swim in the blue ocean on a coral reef.gif" width="150" height="150"></td>
 </tr>
 
 <tr>
@@ -85,10 +85,10 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/car-turn.gif"></td>
-  <td style colspan="2"><img src="examples/a jeep car is moving on the snow.gif"></td> 
-  <td style colspan="2"><img src="examples/car-turn.gif"></td>
-  <td style colspan="2"><img src="examples/a jeep car is moving on the road, cartoon style.gif"></td> 
+  <td style colspan="2"><img src="examples/car-turn.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/a jeep car is moving on the snow.gif" width="150" height="150"></td> 
+  <td style colspan="2"><img src="examples/car-turn.gif" width="150" height="150"></td>
+  <td style colspan="2"><img src="examples/a jeep car is moving on the road, cartoon style.gif" width="150" height="150"></td> 
 </tr>
 </table>
 
