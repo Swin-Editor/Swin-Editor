@@ -25,3 +25,5 @@ Installing [xformers](https://github.com/facebookresearch/xformers) is highly re
 accelerate launch test_swineditor.py --config path/to/config
 ```
 
+## Examples
+
