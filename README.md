@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>vid2vid-zero for Zero-Shot Video Editing</h1>
+<h1>Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing</h1>
 
 <br>
 <image src="docs/Swin-Editor.png" />
