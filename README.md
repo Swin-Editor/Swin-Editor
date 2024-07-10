@@ -3,7 +3,7 @@
 <h1>Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing</h1>
 
 <br>
-<embed src="docs/Overview.pdf" />
+<image src="docs/Overview (4)-1.png" />
 <br>
 
 </div>
