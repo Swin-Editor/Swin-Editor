@@ -86,3 +86,13 @@ accelerate launch test_swineditor.py --config path/to/config
 
 ## citation
 
+If you make use of our work, please cite our paper.
+
+```
+@article{swin-editor,
+  title={Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing},
+  author={Author1, Author2, Author3},
+  journal={WACV 2025},
+  year={2024}
+}
+```
