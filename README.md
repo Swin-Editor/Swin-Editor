@@ -42,10 +42,10 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif"></td>
-  <td style colspan="2"><img src="examples/A dog in the grass in the sun.gif"></td>
-  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif"></td>
-  <td style colspan="2"><img src="examples/A red lion in the grass in the sun, surrounded by butterflies.gif"></td>
+  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif" width="300" height="200"></td>
+  <td style colspan="2"><img src="examples/A dog in the grass in the sun.gif" width="300" height="200"></td>
+  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif" width="300" height="200"></td>
+  <td style colspan="2"><img src="examples/A red lion in the grass in the sun, surrounded by butterflies.gif" width="300" height="200"></td>
 </tr>
 
 
