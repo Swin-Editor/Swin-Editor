@@ -35,52 +35,60 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A Porsche car is moving on the desert"</td>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
+  <td width=25% style="text-align:center;color:gray;">"A cat in the grass in the sun"</td>
+  <td width=25% style="text-align:center;">"A dog in the grass in the sun"</td>
+  <td width=25% style="text-align:center;color:gray;">"A cat in the grass in the sun"</td>
+  <td width=25% style="text-align:center;">"A red lion in the grass in the sun, surrounded by butterflies"</td>
+</tr>
+
+<tr>
+  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif"></td>
+  <td style colspan="2"><img src="examples/A dog in the grass in the sun.gif"></td>
+  <td style colspan="2"><img src="exemple/cat-in-the-sun.gif"></td>
+  <td style colspan="2"><img src="examples/A red lion in the grass in the sun, surrounded by butterflies.gif"></td>
+</tr>
+
+
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A car is driving on the road"</td>
+  <td width=25% style="text-align:center;">"a train is driving on the railway"</td>
+  <td width=25% style="text-align:center;color:gray;">"A car is driving on the road"</td>
+  <td width=25% style="text-align:center;">"A truck is driving on the road"</td>
+</tr>
+
+<tr>
+  <td style colspan="2"><img src="examples/A car is driving on the road.gif"></td>
+  <td style colspan="2"><img src="examples/a train is driving on the railway.gif"></td>
+  <td style colspan="2"><img src="examples/A car is driving on the road.gif"></td>
+  <td style colspan="2"><img src="examples/a truck is driving on the road.gif"></td> 
+</tr>
+
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"Several goldfish swin in a tank"</td>
+  <td width=25% style="text-align:center;">"Several sharks swim in a tank"</td>
+  <td width=25% style="text-align:center;color:gray;">"Two grey sharks swin in the blue ocean on a coral reef"</td>
+  <td width=25% style="text-align:center;">"Two quadrotor drones swim in the blue ocean on a coral reef"</td>
+</tr>
+
+<tr>
+  <td style colspan="2"><img src="examples/gold-fish.gif"></td>
+  <td style colspan="2"><img src="examples/Several sharks swim in a tank.gif"></td>
+  <td style colspan="2"><img src="examples/sharks-swimming.gif"></td>
+  <td style colspan="2"><img src="examples/Two quadrotor drones swim in the blue ocean on a coral reef.gif"></td>
+</tr>
+
+<tr>
+  <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
   <td width=25% style="text-align:center;">"A jeep car is moving on the snow"</td>
+  <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
+  <td width=25% style="text-align:center;">"a jeep car is moving on the road, cartoon style"</td>
 </tr>
 
 <tr>
-  <td style colspan="2"><img src="examples/jeep-moving_Porsche.gif"></td>
-  <td style colspan="2"><img src="examples/jeep-moving_snow.gif"></td>       
-</tr>
-
-
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A man is running"</td>
-  <td width=25% style="text-align:center;">"Stephen Curry is running in Time Square"</td>
-  <td width=25% style="text-align:center;color:gray;">"A man is running"</td>
-  <td width=25% style="text-align:center;">"A man is running in New York City"</td>
-</tr>
-
-<tr>
-  <td style colspan="2"><img src="examples/man-running_stephen.gif"></td>
-  <td style colspan="2"><img src="examples/man-running_newyork.gif"></td>       
-</tr>
-
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A child is riding a bike on the road"</td>
-  <td width=25% style="text-align:center;">"a child is riding a bike on the flooded road"</td>
-  <td width=25% style="text-align:center;color:gray;">"A child is riding a bike on the road"</td>
-  <td width=25% style="text-align:center;">"a lego child is riding a bike on the road.gif"</td>
-</tr>
-
-<tr>
-  <td style colspan="2"><img src="examples/child-riding_flooded.gif"></td>
-  <td style colspan="2"><img src="examples/child-riding_lego.gif"></td>       
-</tr>
-
-<tr>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A car is moving on the snow"</td>
-  <td width=25% style="text-align:center;color:gray;">"A car is moving on the road"</td>
-  <td width=25% style="text-align:center;">"A jeep car is moving on the desert"</td>
-</tr>
-
-<tr>
-  <td style colspan="2"><img src="examples/red-moving_snow.gif"></td>
-  <td style colspan="2"><img src="examples/red-moving_desert.gif"></td>       
+  <td style colspan="2"><img src="examples/car-turn.gif"></td>
+  <td style colspan="2"><img src="examples/a jeep car is moving on the snow.gif"></td> 
+  <td style colspan="2"><img src="examples/car-turn.gif"></td>
+  <td style colspan="2"><img src="examples/a jeep car is moving on the road, cartoon style.gif"></td> 
 </tr>
 </table>
 
