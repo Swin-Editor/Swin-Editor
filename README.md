@@ -41,9 +41,9 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 <tr>
   <td><img src="exemple/cat-in-the-sun.gif"></td>
-  <td><img src="example/A dog in the grass in the sun.gif"></td>
+  <td><img src="example/A-dog-in-the-grass-in-the-sun.gif"></td>
   <td><img src="exemple/cat-in-the-sun.gif"></td>
-  <td><img src="example/A red lion in the grass in the sun, surrounded by butterflies.gif"></td>
+  <td><img src="example/A-redlion-in-the-grass-in-the-sun-surrounded-by-butterflies.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A car is driving on the road"</td>
