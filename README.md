@@ -28,9 +28,9 @@ accelerate launch test_swineditor.py --config path/to/config
 ## Examples
 <table class="center">
 <tr>
-  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;color:gray;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>Output Video</b></td>
-  <td style="text-align:center;"><b>Input Video</b></td>
+  <td style="text-align:center;color:gray;"><b>Input Video</b></td>
   <td style="text-align:center;"><b>Output Video</b></td>
 </tr>
 <tr>
