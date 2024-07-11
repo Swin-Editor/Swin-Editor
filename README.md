@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing</h1>
+<h1>Swin-Editor: Enhancing Creativity of Text-Driven Video Editing</h1>
 
 <br>
 <image src="docs/Overview (4)-1.png" />
@@ -89,7 +89,7 @@ If you make use of our work, please cite our paper.
 
 ```
 @article{swin-editor,
-  title={Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing},
+  title={Swin-Editor: Enhancing Creativity of Text-Driven Video Editing},
   author={Author1, Author2, Author3},
   journal={WACV 2025},
   year={2024}
