@@ -35,9 +35,9 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 
 <tr>
-  <td width=25% style="text-align:center;color:gray;">"A cat in the grass in the sun"</td>
+  <td width=25% style="text-align:center;">"A cat in the grass in the sun"</td>
   <td width=25% style="text-align:center;">"A dog in the grass in the sun"</td>
-  <td width=25% style="text-align:center;color:gray;">"A cat in the grass in the sun"</td>
+  <td width=25% style="text-align:center;">"A cat in the grass in the sun"</td>
   <td width=25% style="text-align:center;">"A red lion in the grass in the sun, surrounded by butterflies"</td>
 </tr>
 
