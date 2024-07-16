@@ -15,9 +15,14 @@ of videos. In this article, we introduce Swin-Editor, an efficient approach of v
 ### Requirements
 
 ```shell
+git clone https://github.com/Swin-Editor/Swin-Editor.git
+conda create -n swin-editor python=3.11.5
 pip install -r requirements.txt
 ```
-Installing [xformers](https://github.com/facebookresearch/xformers) is highly recommended for improved efficiency and speed on GPUs. 
+Installing [xformers](https://github.com/facebookresearch/xformers) is highly recommended for improved efficiency and speed on GPUs.
+
+### Download Pretrained Model
+Download pre-trained Stable Diffusion models from Hugging Face page at [Stable Diffusion v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4) or [Stable Diffusion v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5).
 
 ## Run Demo
 
