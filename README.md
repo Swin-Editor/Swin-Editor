@@ -81,9 +81,9 @@ accelerate launch test_swineditor.py --config path/to/config
   <td width=25% style="text-align:center;">"a jeep car is moving on the road, cartoon style"</td>
 </tr>
 <tr>
-  <td><img src="exemple/car-turn3.gif"></td>
+  <td><img src="exemple/car-turn5.gif"></td>
   <td><img src="exemple/a jeep car is moving on the snow.gif"></td> 
-  <td><img src="exemple/car-turn3.gif"></td>
+  <td><img src="exemple/car-turn5.gif"></td>
   <td><img src="exemple/a jeep car is moving on the road, cartoon style.gif"></td> 
 </tr>
 </table>
