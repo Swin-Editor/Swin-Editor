@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing</h1>
+<h1>Swin-Editor: Enhancing Creativity and Maintaining Consistency in Text-Driven Video Editing</h1>
 
 <br>
 <image src="docs/Overview (4)-1.png" />
@@ -15,9 +15,14 @@ of videos. In this article, we introduce Swin-Editor, an efficient approach of v
 ### Requirements
 
 ```shell
+git clone https://github.com/Swin-Editor/Swin-Editor.git
+conda create -n swin-editor python=3.11.5
 pip install -r requirements.txt
 ```
-Installing [xformers](https://github.com/facebookresearch/xformers) is highly recommended for improved efficiency and speed on GPUs. 
+Installing [xformers](https://github.com/facebookresearch/xformers) is highly recommended for improved efficiency and speed on GPUs.
+
+### Download Pretrained Model
+Download pre-trained Stable Diffusion models from Hugging Face page at [Stable Diffusion v1-4](https://huggingface.co/CompVis/stable-diffusion-v1-4) or [Stable Diffusion v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5).
 
 ## Run Demo
 
@@ -41,9 +46,9 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 <tr>
   <td><img src="exemple/cat-in-the-sun.gif"></td>
-  <td><img src="example/A dog in the grass in the sun.gif"></td>
+  <td><img src="exemple/A-dog-in-the-grass-in-the-sun.gif"></td>
   <td><img src="exemple/cat-in-the-sun.gif"></td>
-  <td><img src="example/A red lion in the grass in the sun, surrounded by butterflies.gif"></td>
+  <td><img src="exemple/A-redlion-in-the-grass-in-the-sun-surrounded-by-butterflies.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A car is driving on the road"</td>
@@ -52,10 +57,10 @@ accelerate launch test_swineditor.py --config path/to/config
   <td width=25% style="text-align:center;">"A truck is driving on the road"</td>
 </tr>
 <tr>
-  <td><img src="example/A car is driving on the road.gif"></td>
-  <td><img src="example/a train is driving on the railway.gif"></td>
-  <td><img src="example/A car is driving on the road.gif""></td>
-  <td><img src="example/a truck is driving on the road.gif"></td> 
+  <td><img src="exemple/car-drive.gif"></td>
+  <td><img src="exemple/a train is driving on the railway.gif"></td>
+  <td><img src="exemple/car-drive.gif""></td>
+  <td><img src="exemple/a truck is driving on the road.gif"></td> 
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"Several goldfish swin in a tank"</td>
@@ -64,10 +69,10 @@ accelerate launch test_swineditor.py --config path/to/config
   <td width=25% style="text-align:center;">"Two quadrotor drones swim in the blue ocean on a coral reef"</td>
 </tr>
 <tr>
-  <td><img src="example/gold-fish.gif"></td>
-  <td><img src="example/Several sharks swim in a tank.gif"></td>
-  <td><img src="example/sharks-swimming.gif"></td>
-  <td><img src="example/Two quadrotor drones swim in the blue ocean on a coral reef.gif"></td>
+  <td><img src="exemple/gold-fish.gif"></td>
+  <td><img src="exemple/Several sharks swim in a tank.gif"></td>
+  <td><img src="exemple/sharks-swimming.gif"></td>
+  <td><img src="exemple/Two quadrotor drones swim in the blue ocean on a coral reef.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;color:gray;">"A jeep car is moving on the road"</td>
@@ -76,10 +81,10 @@ accelerate launch test_swineditor.py --config path/to/config
   <td width=25% style="text-align:center;">"a jeep car is moving on the road, cartoon style"</td>
 </tr>
 <tr>
-  <td><img src="example/car-turn.gif"></td>
-  <td><img src="example/a jeep car is moving on the snow.gif"></td> 
-  <td><img src="example/car-turn.gif"></td>
-  <td><img src="example/a jeep car is moving on the road, cartoon style.gif"></td> 
+  <td><img src="exemple/car-turn3.gif"></td>
+  <td><img src="exemple/a jeep car is moving on the snow.gif"></td> 
+  <td><img src="exemple/car-turn3.gif"></td>
+  <td><img src="exemple/a jeep car is moving on the road, cartoon style.gif"></td> 
 </tr>
 </table>
 
@@ -88,10 +93,12 @@ accelerate launch test_swineditor.py --config path/to/config
 If you make use of our work, please cite our paper.
 
 ```
-@article{swin-editor,
-  title={Swin-Editor: A Comprehensive Framework for Text-Driven Video Editing},
+@InProceedings{swin-editor,
   author={Author1, Author2, Author3},
-  journal={WACV 2025},
-  year={2024}
+  title={Swin-Editor: Enhancing Creativity and Maintaining Consistency in Text-Driven Video Editing},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}
+  month     = {February},
+  year      = {2025},
+  pages     = {}
 }
 ```
