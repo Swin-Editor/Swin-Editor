@@ -88,17 +88,3 @@ accelerate launch test_swineditor.py --config path/to/config
 </tr>
 </table>
 
-## citation
-
-If you make use of our work, please cite our paper.
-
-```
-@InProceedings{swin-editor,
-  author={Author1, Author2, Author3},
-  title={Swin-Editor: Enhancing Creativity and Maintaining Consistency in Text-Driven Video Editing},
-  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}
-  month     = {February},
-  year      = {2025},
-  pages     = {}
-}
-```
